@@ -28,7 +28,7 @@ Marketplace: The name of the application used to access the decentralized market
 
 Protocol: The name of the protocol used.
 
-Repo: repository where the source code of the protocol is stored.
+Repo: repository where the source code of the application or protocol is stored.
 
 Status: the current state of development and operation.
 * Developing: not live, currently under development.
