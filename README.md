@@ -3,32 +3,57 @@ A list of decentralized marketplaces and decentralized marketplace protocols. De
 
 ## Decentralized marketplace protocols
 
+|	Protocol	| URL	| Repo | Whitepaper | Status	| Tech stack |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 	BitMarkets | 	[web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	| [whitepaper](https://voluntary.net/bitmarkets/whitepaper/) |	(developing)	|	Bitcoin, Bitmessage	|
+| 	district0x | 	[web](https://district0x.io/) | [github](https://github.com/district0x/d0x-INFRA)	| [whitepaper](https://district0x.io/docs/district0x-whitepaper.pdf) |	(operating)	| 	Aragon, d0xINFRA, Ethereum, IPFS	|
+| 	Ink Protocol | 	[web](https://paywithink.com/) | [github](https://github.com/InkProtocol/contracts)	| [whitepaper](https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf) |	(developing)	| Ethereum	|
+| 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
+| 	SwarmCity | 	[web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
+
+### Legend
+
 Protocol: The name of the protocol being referenced.
 
 URL: main website of the project.
 
 Repo: repository where the source code of the protocol is stored
 
-Whitepaper: 
+Whitepaper: reference document describing the protocol (not always kept current)
 
-|	Protocol	| URL	| Repo | Whitepaper | Status	| Tech Stack |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 	BitMarkets | 	[web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	| [whitepaper](https://voluntary.net/bitmarkets/whitepaper/) |	(developing)	|	Bitcoin, Bitmessage	|
-| 	district0x | 	[web](https://district0x.io/) | [github](https://github.com/district0x/d0x-INFRA)	| [whitepaper](https://district0x.io/docs/district0x-whitepaper.pdf) |	(developing)	| 	Aragon, d0xINFRA, Ethereum, IPFS	|
-| 	Ink Protocol | 	[web](https://paywithink.com/) | [github](https://github.com/InkProtocol/contracts)	| [whitepaper](https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf) |	(developing)	| Ethereum	|
-| 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
-| 	SwarmCity | 	[web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
+Status: the current state of development and operation
+* Developing: not live, currently under development
+* Operational: live, working implementation available
+
+Tech stack: software primitives or dependencies used by the protocol
 
 ## Decentralized marketplaces
+|
+|	Marketplace	| URL	| Repo | Status	|	Protocol	| Supported currencies | Supported platforms |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:| :-------------:|
+| 	BitMarkets | 	[web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	|	(developing)	|	Bitcoin, Bitmessage	| Bitcoin | Mac |
+| 	Ethlance | 	[web](https://ethlance.com/) | [github](https://github.com/madvas/ethlance)	|	(operating)	| 	district0dx	| Ether | Web|
+| 	Name Bazaar | 	[web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
+| 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
+ 
+### Legend
+ 
+Marketplace: The name of the application used to access the decentralized marketplace (or network of marketplaces).
 
-|	Marketplace	| URL	| Repo | Status	|	Protocol	| Supported currencies |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 	BitMarkets | 	[web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	|	(developing)	|	Bitcoin, Bitmessage	| Bitcoin |
-| 	Ethlance | 	[web](https://ethlance.com/) | [github](https://github.com/madvas/ethlance)	|	(developing)	| 	district0dx	| Ether |
-| 	Name Bazaar | 	[web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(developing)	| Ethereum |
-| 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Bitcoin, Bitcoin Cash, Zcash |
-| 	SwarmCity | 	[web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	| Ether |
+Protocol: the decentralized marketplace protocol used by the application.
+
+Supported currencies: currencies supported by the application for buying and selling goods and services in the marketplace.
+
+Supported platforms: computing platforms supported by the application.
+ 
+ ## Footnotes
  
  <b id="f1">1</b> Protocol spec: https://docs.openbazaar.org/03.-OpenBazaar-Protocol/ [↩](#a1)
  
-_Notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/john-light/decentralized-marketplaces/issues) or [pull request](https://github.com/john-light/decentralized-marketplaces/pulls) to suggest changes to this file.
+ ## Contributing
+ 
+Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/john-light/decentralized-marketplaces/issues) or [pull request](https://github.com/john-light/decentralized-marketplaces/pulls) to suggest changes to this file.
+
+## Disclaimer
+
+While the maintainer(s) of this repo do their best to keep this list free of any software that could be considered harmful to users, inclusion on this list does not constitute an endorsement by the author(s) or maintainer(s) of this repo. Do your own due diligence before downloading and installing any software to ensure you can trust it and understand the implications of its use.
