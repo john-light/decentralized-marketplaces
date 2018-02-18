@@ -1,6 +1,8 @@
 # decentralized-marketplaces
 A list of decentralized marketplaces and decentralized marketplace protocols. Decentralized marketplaces are software applications that enable discovery between online buyers and sellers without having to rely on a central third-party server. Decentralized marketplace protocols are software standards that enable different marketplace interfaces to be interoperable with one another. These protocols are often implemented in reference applications that can be used to access a decentralized marketplace or network of marketplaces.
 
+If you are looking for a list of decentralized exchanges, click [here](https://github.com/distribuyed/index).
+
 ## Decentralized marketplace protocols
 
 |	Protocol	| URL	| Repo | Whitepaper | Status	| Tech stack |
@@ -26,21 +28,21 @@ Marketplace: The name of the application used to access the decentralized market
 
 Protocol: The name of the protocol used.
 
-Repo: repository where the source code of the protocol is stored
+Repo: repository where the source code of the protocol is stored.
 
-Status: the current state of development and operation
-* Developing: not live, currently under development
-* Operational: live, working implementation available
+Status: the current state of development and operation.
+* Developing: not live, currently under development.
+* Operating: live, working implementation available.
 
 Supported currencies: currencies supported by the application for buying and selling goods and services in the marketplace.
 
 Supported platforms: computing platforms supported by the application.
 
-Tech stack: software primitives or dependencies used by the protocol
+Tech stack: software primitives or dependencies used by the protocol.
 
 URL: main website of the project.
 
-Whitepaper: reference document describing the protocol (not always kept current)
+Whitepaper: reference document describing the protocol.
  
  ## Footnotes
  
@@ -49,6 +51,10 @@ Whitepaper: reference document describing the protocol (not always kept current)
  ## Contributing
  
 Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/john-light/decentralized-marketplaces/issues) or [pull request](https://github.com/john-light/decentralized-marketplaces/pulls) to suggest changes to this file.
+
+By contributing to this repo you agree to the following copyright waiver:
+
+> I dedicate any and all copyright interest in this software to the public domain. I make this dedication for the benefit of the public at large and to the detriment of my heirs and successors. I intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
 
 ## Disclaimer
 
