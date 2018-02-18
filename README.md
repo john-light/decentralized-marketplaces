@@ -44,7 +44,7 @@ Whitepaper: reference document describing the protocol (not always kept current)
  
  ## Footnotes
  
- <b id="f1">1</b> Protocol spec: https://docs.openbazaar.org/03.-OpenBazaar-Protocol/ [↩](#a1)
+ <b id="f1">1</b> OpenBazaar protocol spec: https://docs.openbazaar.org/03.-OpenBazaar-Protocol/ [↩](#a1)
  
  ## Contributing
  
