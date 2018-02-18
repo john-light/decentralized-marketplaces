@@ -30,9 +30,9 @@ Tech stack: software primitives or dependencies used by the protocol
 ## Decentralized marketplaces
 |
 |	Marketplace	| URL	| Repo | Status	|	Protocol	| Supported currencies | Supported platforms |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:| :-------------:|
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	BitMarkets | 	[web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	|	(developing)	|	Bitcoin, Bitmessage	| Bitcoin | Mac |
-| 	Ethlance | 	[web](https://ethlance.com/) | [github](https://github.com/madvas/ethlance)	|	(operating)	| 	district0dx	| Ether | Web|
+| 	Ethlance | 	[web](https://ethlance.com/) | [github](https://github.com/madvas/ethlance)	|	(operating)	| 	district0dx	| Ether | Web |
 | 	Name Bazaar | 	[web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
 | 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
  
