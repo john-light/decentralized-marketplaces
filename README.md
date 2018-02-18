@@ -11,24 +11,8 @@ A list of decentralized marketplaces and decentralized marketplace protocols. De
 | 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
 | 	SwarmCity | 	[web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
 
-### Legend
-
-Protocol: The name of the protocol being referenced.
-
-URL: main website of the project.
-
-Repo: repository where the source code of the protocol is stored
-
-Whitepaper: reference document describing the protocol (not always kept current)
-
-Status: the current state of development and operation
-* Developing: not live, currently under development
-* Operational: live, working implementation available
-
-Tech stack: software primitives or dependencies used by the protocol
-
 ## Decentralized marketplaces
-|
+
 |	Marketplace	| URL	| Repo | Status	|	Protocol	| Supported currencies | Supported platforms |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	BitMarkets | 	[web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	|	(developing)	|	Bitcoin, Bitmessage	| Bitcoin | Mac |
@@ -37,14 +21,26 @@ Tech stack: software primitives or dependencies used by the protocol
 | 	OpenBazaar | 	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
  
 ### Legend
- 
+
 Marketplace: The name of the application used to access the decentralized marketplace (or network of marketplaces).
 
-Protocol: the decentralized marketplace protocol used by the application.
+Protocol: The name of the protocol used.
+
+Repo: repository where the source code of the protocol is stored
+
+Status: the current state of development and operation
+* Developing: not live, currently under development
+* Operational: live, working implementation available
 
 Supported currencies: currencies supported by the application for buying and selling goods and services in the marketplace.
 
 Supported platforms: computing platforms supported by the application.
+
+Tech stack: software primitives or dependencies used by the protocol
+
+URL: main website of the project.
+
+Whitepaper: reference document describing the protocol (not always kept current)
  
  ## Footnotes
  
