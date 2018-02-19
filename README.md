@@ -53,7 +53,7 @@ Whitepaper: original reference document describing the protocol.
  
 ## Contributing
  
-Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/john-light/decentralized-marketplaces/issues) or [pull request](https://github.com/john-light/decentralized-marketplaces/pulls) to suggest changes to this file.
+Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/john-light/decentralized-marketplaces/issues) or [pull request](https://github.com/john-light/decentralized-marketplaces/pulls) to suggest changes to this file. If you contribute a pull request, please follow the existing data entry format and add your entry to the list in alphabetical order.
 
 By contributing to this repo you agree to the following copyright waiver:
 
