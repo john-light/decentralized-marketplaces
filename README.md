@@ -11,6 +11,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 | district0x |	[web](https://district0x.io/) | [github](https://github.com/district0x/d0x-INFRA)	| [whitepaper](https://district0x.io/docs/district0x-whitepaper.pdf) |	(operating)	|	Aragon, d0xINFRA, Ethereum, IPFS	|
 | Drop Zone | N/A | [github](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib)	| [whitepaper](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib/blob/master/Drop%20Zone%20-%20Whitepaper.pdf) |	(developing)	| Bitcoin	|
 |	Ink Protocol |	[web](https://paywithink.com/) | [github](https://github.com/InkProtocol/contracts)	| [whitepaper](https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf) |	(developing)	| Ethereum	|
+| LBRY | [web](https://lbry.io/) | [github](https://github.com/lbryio)	| N/A |	(operating)	| LBRY	|
 | OpenBazaar | [web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
 |	SwarmCity | [web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
 
@@ -21,7 +22,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 |	BitMarkets | [web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	|	(developing)	|	Bitcoin, Bitmessage	| Bitcoin | Mac |
 |	Bounty0x | [web](https://bounty0x.io/) | N/A	|	(developing)	|	district0x	| Ethereum | Web |
 |	Ethlance | [web](https://ethlance.com/) | [github](https://github.com/madvas/ethlance)	|	(operating)	|	district0x	| Ether | Web |
-|	LBRY	| https://lbry.io/	| https://github.com/lbryio | (operating)	|	lbry protocol	|  | Linux, Mac, Windows (Android, iOS in development) |
+|	LBRY	| [web](https://lbry.io/)	| [github](https://github.com/lbryio) | (operating)	|	LBRY	| LBRY | Linux, Mac, Windows (Android, iOS in development) |
 |	Name Bazaar | [web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
 | OpenBazaar |	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
  
