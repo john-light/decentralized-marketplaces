@@ -14,6 +14,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 | LBRY | [web](https://lbry.io/) | [github](https://github.com/lbryio)	| N/A |	(operating)	| LBRY	|
 | OpenBazaar | [web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
 |	SwarmCity | [web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
+| Syscoin | [web](https://syscoin.org/) | [github](https://github.com/syscoin/syscoin2)	| [whitepaper](http://whitepaper.syscoin.org/) |	(operating)	| Syscoin	|
 
 ## Decentralized marketplaces
 
