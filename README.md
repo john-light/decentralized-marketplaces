@@ -27,6 +27,10 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 |	Name Bazaar | [web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
 | OpenBazaar |	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
  
+## Footnotes
+ 
+ <b id="f1">1</b> OpenBazaar protocol spec: https://docs.openbazaar.org/03.-OpenBazaar-Protocol/ [↩](#a1)
+
 ### Legend
 
 Marketplace: The name of the application used to access the decentralized marketplace (or network of marketplaces).
@@ -48,11 +52,7 @@ Tech stack: software primitives or dependencies used by the protocol.
 URL: main website of the project.
 
 Whitepaper: original reference document describing the protocol.
- 
-## Footnotes
- 
- <b id="f1">1</b> OpenBazaar protocol spec: https://docs.openbazaar.org/03.-OpenBazaar-Protocol/ [↩](#a1)
- 
+
 ## Contributing
  
 Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/john-light/decentralized-marketplaces/issues) or [pull request](https://github.com/john-light/decentralized-marketplaces/pulls) to suggest changes to this file. 
