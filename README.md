@@ -12,6 +12,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 | Drop Zone | N/A | [github](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib)	| [whitepaper](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib/blob/master/Drop%20Zone%20-%20Whitepaper.pdf) |	(developing)	| Bitcoin	|
 |	Ink Protocol |	[web](https://paywithink.com/) | [github](https://github.com/InkProtocol/contracts)	| [whitepaper](https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf) |	(developing)	| Ethereum	|
 | LBRY | [web](https://lbry.io/) | [github](https://github.com/lbryio)	| N/A |	(operating)	| LBRY	|
+| MARKET Protocol | [web](https://www.marketprotocol.io/) | [github](https://github.com/MarketProject/MarketProtocol)	| [whitepaper](https://www.marketprotocol.io/wp-content/uploads/MARKET-Protocol-White-Paper.pdf) |	(developing)	| Ethereum	|
 | OpenBazaar | [web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
 |	SwarmCity | [web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
 | Syscoin | [web](https://syscoin.org/) | [github](https://github.com/syscoin/syscoin2)	| [whitepaper](http://whitepaper.syscoin.org/) |	(operating)	| Syscoin	|
