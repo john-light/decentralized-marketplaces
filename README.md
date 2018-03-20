@@ -22,6 +22,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |	BitMarkets | [web](https://voluntary.net/bitmarkets/) | [github](https://github.com/voluntarynet/Bitmarkets)	|	(developing)	|	Bitcoin, Bitmessage	| Bitcoin | Mac |
 |	Bounty0x | [web](https://bounty0x.io/) | N/A	|	(developing)	|	district0x	| Ethereum | Web |
+|	Decentraland Marketplace	| [web](https://market.decentraland.org/)	| [github](https://github.com/decentraland/marketplace-contracts) | (operating)	|	Ethereum	| MANA, LAND | Web |
 |	Ethlance | [web](https://ethlance.com/) | [github](https://github.com/madvas/ethlance)	|	(operating)	|	district0x	| Ether | Web |
 |	LBRY	| [web](https://lbry.io/)	| [github](https://github.com/lbryio) | (operating)	|	LBRY	| LBRY | Linux, Mac, Windows (Android, iOS in development) |
 |	Name Bazaar | [web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
