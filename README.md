@@ -28,7 +28,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 |	LBRY	| [web](https://lbry.io/)	| [github](https://github.com/lbryio) | (operating)	|	LBRY	| LBRY | Linux, Mac, Windows (Android, iOS in development) |
 |	Name Bazaar | [web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
 | OpenBazaar |	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
-| Origin |	[web](https://dapp.originprotocol.com/) | [github](https://github.com/OriginProtocol)	| (operating)	| Origin	| Receive: ETH, ERC-20 tokens Send: ETH, ERC-20 tokens | Web |
+| Origin |	[web](https://dapp.originprotocol.com/) | [github](https://github.com/OriginProtocol)	| (operating)	| Origin	| ETH, ERC-20 tokens | Web |
  
 ## Footnotes
  
