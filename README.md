@@ -12,7 +12,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 | Drop Zone | N/A | [github](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib)	| [whitepaper](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib/blob/master/Drop%20Zone%20-%20Whitepaper.pdf) |	(developing)	| Bitcoin	|
 |	Ink Protocol |	[web](https://paywithink.com/) | [github](https://github.com/InkProtocol/contracts)	| [whitepaper](https://paywithink.com/wp-content/uploads/2018/07/Ink_Protocol_Whitepaper_V9_Listia_Inc.pdf) |	(developing)	| Ethereum	|
 | LBRY | [web](https://lbry.io/) | [github](https://github.com/lbryio)	| N/A |	(operating)	| LBRY	|
-| OpenBazaar | [web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A<sup id="a1">[1](#f1)</sup> |	(operating)	| IPFS, Ricardian contracts	|
+| OpenBazaar | [web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A |	(operating)	| IPFS, Ricardian contracts	|
 | Origin | [web](https://www.originprotocol.com/en) | [github](https://github.com/OriginProtocol)	| [whitepaper](https://www.originprotocol.com/en/whitepaper) |	(operating)	| Ethereum, IPFS	|
 |	SwarmCity | [web](https://swarm.city/) | [github](https://github.com/swarmcity)	| [whitepaper](https://support.swarm.city/knowledge_base/topics/where-can-i-view-the-whitepaper) |	(developing)	|	Ethereum	|
 | Syscoin | [web](https://syscoin.org/) | [github](https://github.com/syscoin/syscoin)	| [whitepaper](https://www.syscoin.org/assets/whitepaper.pdf) |	(operating)	| Syscoin	|
@@ -28,10 +28,6 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 |	Name Bazaar | [web](https://namebazaar.io/) | [github](https://github.com/district0x/name-bazaar) |	(operating)	| Ethereum | Ether| Web |
 | OpenBazaar |	[web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| (operating)	| OpenBazaar	| Receive: Bitcoin, Bitcoin Cash, Zcash. Send: All [ShapeShift](https://shapeshift.io) currencies. | Linux, Mac, Windows |
 | Origin |	[web](https://dapp.originprotocol.com/) | [github](https://github.com/OriginProtocol)	| (operating)	| Origin	| ETH, ERC-20 tokens | Web |
- 
-## Footnotes
- 
- <b id="f1">1</b> OpenBazaar protocol spec: https://docs.openbazaar.org/guides/concepts/startup/ [↩](#a1)
 
 ### Legend
 
