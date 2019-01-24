@@ -9,7 +9,7 @@ If you are looking for a list of decentralized exchanges, visit [this repo](http
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | BitMarkets |	[web](https://voluntarylabs.org/bitmarkets/) | [github](https://github.com/VoluntaryLabs/Bitmarkets)	| [whitepaper](https://voluntarylabs.org/bitmarkets/whitepaper/) |	(deprecated)	|	Bitcoin, Bitmessage	|
 | district0x |	[web](https://district0x.io/) | [github](https://github.com/district0x/d0x-INFRA)	| [whitepaper](https://district0x.io/docs/district0x-whitepaper.pdf) |	(operating)	|	Aragon, d0xINFRA, Ethereum, IPFS	|
-| Drop Zone | N/A | [github](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib)	| [whitepaper](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib/blob/master/Drop%20Zone%20-%20Whitepaper.pdf) |	(deprecated)	| Bitcoin	|
+| Drop Zone | N/A | [github](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib)	| [whitepaper](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone-lib/blob/master/Drop%20Zone%20-%20Whitepaper.pdf) |	(operating)	| Bitcoin	|
 |	Ink Protocol |	[web](https://paywithink.com/) | [github](https://github.com/InkProtocol/contracts)	| [whitepaper](https://paywithink.com/wp-content/uploads/2018/07/Ink_Protocol_Whitepaper_V9_Listia_Inc.pdf) |	(operating)	| Ethereum	|
 | LBRY | [web](https://lbry.io/) | [github](https://github.com/lbryio)	| N/A |	(operating)	| LBRY	|
 | OpenBazaar | [web](https://www.openbazaar.org/) | [github](https://github.com/openbazaar)	| N/A |	(operating)	| IPFS, Ricardian contracts	|
